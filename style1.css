@@ -1,0 +1,64 @@
+ul li a{
+	text-decoration: none;
+	color:black;
+	display: white;
+
+}
+ul li {
+	float:right;
+	width: 200px;
+	height: 60px;
+	background-color: transparent; ;
+	opacity: .8 ;}
+ul{
+
+padding: 0;
+margin: 0;
+list-style: none;
+font-size: 20px;
+
+}
+ul li.active a{
+	background-color:green;
+	color: black;
+
+}
+
+ul li a:hover {background-color:  green;}
+
+
+
+.h1 {background-color: red;
+	font-size: 10px;
+color: black;
+}
+u{
+text-decoration: underline;
+
+	
+}
+.h2 {
+font-size: 20px;
+color: black;
+
+}
+.h3 {
+font-size: 30px;
+color: black;
+
+}
+.h4 {
+font-size: 30px;
+color: black;
+
+}
+.text{
+	position: absolute;
+	top: 30px;
+	left: 0px
+}
+
+
+	
+
+  
